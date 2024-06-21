@@ -1,0 +1,28 @@
+{
+  "submissions": [
+    {
+      "Id": 0,
+      "Name": "sam1",
+      "Email": "s@gmail.com",
+      "PhoneNum": "1234567890",
+      "GithubLink": "www.github.com",
+      "StopwatchTime": "00:00:03"
+    },
+    {
+      "Id": 0,
+      "Name": "pratham",
+      "Email": "sam@gmail.com",
+      "PhoneNum": "1234567890",
+      "GithubLink": "www.github.com",
+      "StopwatchTime": "00:00:06"
+    },
+    {
+      "Id": 0,
+      "Name": "sam",
+      "Email": "s@gmail.com",
+      "PhoneNum": "1234567890",
+      "GithubLink": "www.github.com",
+      "StopwatchTime": "00:00:03"
+    }
+  ]
+}
